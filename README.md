@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Catherine Finn)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment is for us to learn about the jQuery library)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+( https://clf16.github.io/lesson7_jquery/. )
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (jQuery helps minimize code for developers and make it easier to write them)
+2. (I learned how to make animations after user clicks a link)
+3. (I learned how to use the JavaScript Console Panel which helps manipulate items in the code)
 
